@@ -1,0 +1,20 @@
+{
+  "name": "trillo-hotel-booking",
+  "version": "1.0.0",
+  "description": "Trillo Hotel Booking website using sass and focused on using flexbox. Designed by Jonas Schmedtmann, built by Utku Çam.",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "SASS",
+    "Responsive",
+    "Design",
+    "Flexbox",
+    "Media",
+    "Hotel",
+    "Booking",
+    "Modern",
+    "Elegant"
+  ],
+  "author": "Utku Çam",
+  "license": "MIT"
+}
